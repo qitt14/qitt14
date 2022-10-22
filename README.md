@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @qitt14
+- 👀 I’m interested in webdevelopment & software
+- 🌱 I’m currently learning javascript
